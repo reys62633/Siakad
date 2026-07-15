@@ -1,6 +1,6 @@
 $port = 3000
 $listener = New-Object System.Net.HttpListener
-$listener.Prefixes.Add("http://*:3000/")
+$listener.Prefixes.Add("http://127.0.0.1:3000/")
 try {
     $listener.Start()
     Write-Host "Backend API is running on port $port"
