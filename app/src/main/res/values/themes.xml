@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.SIAKAD" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Primary colors -->
+        <item name="colorPrimary">#0A192F</item> <!-- Biru Akademik -->
+        <item name="colorOnPrimary">#FFFFFF</item>
+        <item name="colorPrimaryContainer">#D8E2FF</item>
+        <item name="colorOnPrimaryContainer">#001A41</item>
+        
+        <!-- Secondary colors -->
+        <item name="colorSecondary">#575E71</item>
+        <item name="colorOnSecondary">#FFFFFF</item>
+        <item name="colorSecondaryContainer">#DBE2F9</item>
+        <item name="colorOnSecondaryContainer">#141B2C</item>
+        
+        <!-- Tertiary colors -->
+        <item name="colorTertiary">#715573</item>
+        <item name="colorOnTertiary">#FFFFFF</item>
+        <item name="colorTertiaryContainer">#FBD7FC</item>
+        <item name="colorOnTertiaryContainer">#29132D</item>
+
+        <!-- Background & Surface -->
+        <item name="android:colorBackground">#FEFBFF</item>
+        <item name="colorOnBackground">#1B1B1F</item>
+        <item name="colorSurface">#FEFBFF</item>
+        <item name="colorOnSurface">#1B1B1F</item>
+    </style>
+</resources>
